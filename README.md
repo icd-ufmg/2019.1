@@ -6,7 +6,8 @@
 
 Professores: Flavio Figueiredo
 
-Aulas: 14:55-16:35. Sala ainda não definida.
+Aulas: 14:55-16:35.
+Local: Auditório 1A - CAD1
 
 ## Informes
 
