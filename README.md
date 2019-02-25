@@ -6,11 +6,11 @@
 
 Professores: Flavio Figueiredo
 
-Aulas: 14:55h. Sala ainda não definida.
+Aulas: 14:55-16:35. Sala ainda não definida.
 
 ## Informes
 
-* Aulas iniciam no dia 25/02/2019
+* Aulas iniciam no dia 25/02/2019. Verifiquem a sala no site do ICEX.
 
 ## TPs
 
