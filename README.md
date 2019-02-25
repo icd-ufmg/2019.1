@@ -1,5 +1,5 @@
-| [Slides] | [Calendário] | [Informes] | [Exemplos] | [TPs] | [Listas] | [Bibliografia] |
-|----------|--------------|------------|------------|-------|----------|----------------|
+| [Slides] | [Calendário] | [Informes] | [Exemplos] | [Listas] | [Bibliografia] |
+|----------|--------------|------------|------------|----------|----------------|
 - - -
 
 # DCC212: Introdução à Ciência de Dados
@@ -13,8 +13,6 @@ Local: Auditório 1A - CAD1
 
 * Aulas iniciam no dia 25/02/2019. Verifiquem a sala no site do ICEX.
 
-## TPs
-
 ## Bibliografia
 
   1. [Computational and Inferential Thinking: The Foundations of Data Science](http://www.inferentialthinking.com/) <br>
@@ -25,12 +23,13 @@ Local: Auditório 1A - CAD1
      Renato Assunção <br>
      **Português**
      
-  1. [Elements of Causal Inference: Foundations and Learning Algorithms ](http://www.math.ku.dk/~peters/elements.html) <br>
-     Jonas Peters, Dominik Janzing and Bernhard Schölkopf  <br>
-     **Apenas em inglês. Aberto!**
+  1. [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do) <br>
+     Joel Grus  <br>
+     **Existe em Português!** Pago.
      
-  1. [Statistics Done Wrong](https://www.statisticsdonewrong.com/) <br>
-     Alex Reinhart
+  1. [An Introduction to Statistical Learning](https://www.statisticsdonewrong.com/) <br>
+      Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <br>
+     **Apenas em inglês. Aberto!**
 
 ## Mais material
 
