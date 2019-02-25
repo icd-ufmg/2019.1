@@ -1,14 +1,16 @@
-| [Slides] | [Informes] | [Calendário] | [Exemplos] | [TPs] | [Listas] | [Bibliografia] |
-|----------|------------|--------------|------------|-------|----------|----------------|
+| [Informes] | [Slides] | [Calendário] | [Exemplos] | [TPs] | [Listas] | [Bibliografia] |
+|------------|----------|--------------|------------|-------|----------|----------------|
 - - -
 
-# DCCXXX: Introdução a Ciência de Dados
+# DCC212: Introdução à Ciência de Dados
 
-Professores: Pedro Olmo e Flavio Figueiredo
+Professores: Flavio Figueiredo
 
-Aulas: 17h. Sala ainda não definida.
+Aulas: 14:55h. Sala ainda não definida.
 
 ## Informes
+
+## Slides
 
 ## Calendário
 
