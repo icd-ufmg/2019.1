@@ -1,5 +1,5 @@
-| [Informes] | [Slides] | [Calendário] | [Exemplos] | [TPs] | [Listas] | [Bibliografia] |
-|------------|----------|--------------|------------|-------|----------|----------------|
+| [Slides] | [Calendário] | [Informes] | [Exemplos] | [TPs] | [Listas] | [Bibliografia] |
+|----------|--------------|------------|------------|-------|----------|----------------|
 - - -
 
 # DCC212: Introdução à Ciência de Dados
@@ -10,14 +10,9 @@ Aulas: 14:55h. Sala ainda não definida.
 
 ## Informes
 
-## Slides
-
-## Calendário
-
-https://docs.google.com/spreadsheets/d/1bS3vOooAlst9Z91ve2lo2YUKl9FqDQrKaXu0LzoUYe4/edit?usp=sharing
+* Aulas iniciam no dia 25/02/2019
 
 ## TPs
-
 
 ## Bibliografia
 
@@ -45,3 +40,12 @@ https://docs.google.com/spreadsheets/d/1bS3vOooAlst9Z91ve2lo2YUKl9FqDQrKaXu0LzoU
 - [data 8 - Curso Caltech/Berkley](http://data8.org/)
 - [Formato do the straigh dope](https://github.com/zackchase/mxnet-the-straight-dope)
 - http://ruder.io/optimizing-gradient-descent/index.html
+
+[Slides]: https://drive.google.com/drive/folders/1ZIwHz7U8vKAgjvHwkL_R1hZlE_4dsmah?usp=sharing
+[Calendário]: https://docs.google.com/spreadsheets/d/1bS3vOooAlst9Z91ve2lo2YUKl9FqDQrKaXu0LzoUYe4/edit?usp=sharing
+[Informes]: #informes
+[TPs]: #tps
+[Bibliografia]: #bibliografia
+[Livros]: #livros
+[Exemplos]: ./exemplos
+[Valgrind]: ./valgriddrmem
