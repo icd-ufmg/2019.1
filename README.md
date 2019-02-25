@@ -46,6 +46,3 @@ Aulas: 14:55h. Sala ainda não definida.
 [Informes]: #informes
 [TPs]: #tps
 [Bibliografia]: #bibliografia
-[Livros]: #livros
-[Exemplos]: ./exemplos
-[Valgrind]: ./valgriddrmem
